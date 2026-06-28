@@ -1,7 +1,6 @@
 # IntelliSQR Todo Platform
 
 A complete React + Node.js implementation of the assignment brief: authenticated users can manage todos, recover access with reset tokens, and see every change reflected in a polished UI.
-
 ## Stack Overview
 - **Frontend:** React 18, TypeScript, Vite, React Router, Zustand, TanStack Query, React Hook Form, Zod, Tailwind CSS.
 - **Backend:** Node.js, TypeScript, Express, MongoDB via Mongoose, JWT authentication, bcrypt, centralized error logging.

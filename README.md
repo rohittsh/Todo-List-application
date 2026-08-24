@@ -10,8 +10,6 @@ A complete React + Node.js implementation of the assignment brief: authenticated
 - Secure API access with JWT middleware and protected todo routes.
 - Todo management: create, list, update (including completed flag), delete.
 - Client-side schema validation with Zod for every form and API response.
-- Error logging stored in MongoDB `logs` collection for auditability.
-
 ## Getting Started
 1. **Clone** this repository.
 2. **Backend setup**
